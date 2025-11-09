@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "bbd2a169f8605951",
+    "type": "split",
+    "children": [
+      {
+        "id": "19f3a49989a39e35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3b2764a27f5ea4f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a92c356cd7f21ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e77144aa2cdd49e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83f870878cb865bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d31087067ce5cd05",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e334dcdf5b391871",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "153d004af2433658",
+    "type": "split",
+    "children": [
+      {
+        "id": "167236f6fe4759c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b51c3d4b4b26a93f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a38a4048e17dd6dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "463d65c89a866da2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "98ef5b0aeffc3ea4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "83f870878cb865bb",
+  "lastOpenFiles": [
+    "Sustainable Architecture Index/Index Dashboard.md",
+    "Sustainable Architecture Index/Field operational/Rubble-Based Concrete Blocks (Incl. 'Green Cake' type).md",
+    "Sustainable Architecture Index/Field operational/Modular Frames with Rubble Infill (Wood Steel Bamboo).md",
+    "Sustainable Architecture Index/Field operational/Mobile Interlocking Brick Systems (Containerised 'LEGO' Blocks).md",
+    "Sustainable Architecture Index/Field operational/Hand-Crushing Concrete into Recycled Aggregate.md",
+    "Sustainable Architecture Index/Field operational/Manual Rebar Salvage & Straightening.md",
+    "Sustainable Architecture Index/Field operational/Gabion  Mesh 'Basket' Rubble Walls.md",
+    "Sustainable Architecture Index/Field operational/Earthbag  Sandbag Walls with Rubble Fill.md",
+    "Sustainable Architecture Index/Field operational/Debris Sorting & Manual Processing.md",
+    "Sustainable Architecture Index/Field operational",
+    "Sustainable Architecture Index/Graph Maps/Time-Conscious Vernacular Bioregionalism.md",
+    "Sustainable Architecture Index/Graph Maps/Relational Threads (Meta) Map.md",
+    "Sustainable Architecture Index/Graph Maps/Healing & Meaning Map.md",
+    "Sustainable Architecture Index/Graph Maps/Ecological Integration Map.md",
+    "Sustainable Architecture Index/Graph Maps/Eco-Urbanism and Civic Ecology.md",
+    "Sustainable Architecture Index/Graph Maps/Design & Material Practices Map.md",
+    "Sustainable Architecture Index/Graph Maps/Concept Graph Map.md",
+    "Sustainable Architecture Index/Graph Maps/Community & Governance Map.md",
+    "Sustainable Architecture Index/Graph Maps/Collapse, Risk, and Renewal Map.md",
+    "Sustainable Architecture Index/Graph Maps/Collapse, Repair and Stewardship.md",
+    "Sustainable Architecture Index/Graph Maps/Bridge Map - Speculative Vernaculars.md",
+    "Sustainable Architecture Index/Graph Maps/Bridge Map - Deep Care Commons.md",
+    "Sustainable Architecture Index/Graph Maps/Bridge Map - Circular Futures.md",
+    "Sustainable Architecture Index/Graph Maps/Architectures of Care and Ritual.md",
+    "Sustainable Architecture Index/Graph Maps/Architectures of Care and Ritual 1.md",
+    "Sustainable Architecture Index/Graph Maps",
+    "Sustainable Architecture Index/templates/SUSTAINABLE_ENTRY_TEMPLATE_FINAL 1.md",
+    "Sustainable Architecture Index/templates/Sustainable Entry Template.md",
+    "Sustainable Architecture Index/templates",
+    "Sustainable Architecture Index/tags",
+    "Sustainable Architecture Index/add_yaml_headers.py",
+    "Sustainable Architecture Index/Concept Notes - SAI",
+    "Sustainable Architecture Index/entries",
+    "Sustainable Architecture Index/Spatial Typologies",
+    "Sustainable Architecture Index",
+    "LICENSE"
+  ]
+}
