@@ -11,75 +11,13 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concept Notes - SAI/3D Printed Architecture.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "3D Printed Architecture"
-            }
-          },
-          {
-            "id": "ddb5b04c6420c973",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spatial Typologies/Threshold-Centered Space.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Threshold-Centered Space"
-            }
-          },
-          {
-            "id": "3f797e4338fd6a60",
-            "type": "leaf",
-            "state": {
-              "type": "map",
-              "state": {
-                "name": "Default",
-                "mapZoom": 4,
-                "mapCenter": {
-                  "lat": 46.98269340283655,
-                  "lng": 28.740234375000004
-                },
-                "query": "",
-                "queryError": false,
-                "chosenMapSource": 0,
-                "forceHistorySave": false,
-                "followActiveNote": false,
-                "embeddedHeight": 300,
-                "autoFit": false,
-                "lock": false,
-                "showLinks": false,
-                "linkColor": "red",
-                "markerLabels": "off",
-                "editMode": false
-              },
-              "icon": "map-pin",
-              "title": "Interactive Map View"
-            }
-          },
-          {
-            "id": "43d7f633928bfd1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concept Notes - SAI/Community-Based Care Models.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Community-Based Care Models"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,12 +172,32 @@
             "state": {
               "type": "juggl_nodes",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_nodes"
+            }
+          },
+          {
+            "id": "9e28e205800821f8",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
+            }
+          },
+          {
+            "id": "350c781740b396ea",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
               "icon": "ag-node-list",
               "title": "Juggl nodes"
             }
           },
           {
-            "id": "9e28e205800821f8",
+            "id": "6738778d0f7e0508",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -272,34 +230,34 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "43d7f633928bfd1a",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Concept Notes - SAI/3D Printed Architecture.md",
-    "entries/Wharenui Marae.md",
-    "Spatial Typologies/Threshold-Centered Space.md",
-    "Thresholds and Ritual]] [[Symbolic Form]] [[Healing Architecture.md",
-    "Spatial Typologies/Modular-Fractal Settlement Form.md",
-    "Spatial Typologies/Earth-Embedded and Climatic Shelter.md",
-    "entries/Xochimilco Floating Gardens.md",
-    "Concept Notes - SAI/Floating Architecture.md",
-    "Concept Notes - SAI/Dry Sanitation.md",
-    "entries/CopenHill.md",
-    "entries/Cederhusen.md",
-    "entries/Breathe – Housing for Urban Nomads.md",
-    "entries/Bat Trang House.md",
-    "entries/Auroville Earth Institute.md",
-    "Graph Maps/Eco-Urbanism and Civic Ecology.md",
-    "Graph Maps/Design & Material Practices Map.md",
-    "Graph Maps/Architectures of Care and Ritual.md",
-    "Graph Maps/Bridge Map - Speculative Vernaculars.md",
-    "Graph Maps/Bridge Map - Circular Futures.md",
+    "Field operational/Rubble-Based Concrete Blocks (Incl. 'Green Cake' type).md",
+    "Field operational/Modular Frames with Rubble Infill (Wood Steel Bamboo).md",
+    "Field operational/Mobile Interlocking Brick Systems (Containerised 'LEGO' Blocks).md",
+    "Field operational/Manual Rebar Salvage & Straightening.md",
+    "Field operational/Gabion  Mesh 'Basket' Rubble Walls.md",
+    "Field operational/Earthbag  Sandbag Walls with Rubble Fill.md",
+    "Field operational/Hand-Crushing Concrete into Recycled Aggregate.md",
+    "Field operational/Debris Sorting & Manual Processing.md",
+    "Field operational",
+    "Spatial Typologies Bridge Map.md",
+    "templates/SUSTAINABLE_ENTRY_TEMPLATE_FINAL 1.md",
+    "templates/SUSTAINABLE_ENTRY_TEMPLATE_FINAL.md",
+    "templates/Sustainable Entry Template.md",
+    "index.md",
+    "Index Dashboard.md",
+    "classification_report.md",
+    "Graph Maps/Collapse, Repair and Stewardship.md",
     "Graph Maps/Bridge Map - Deep Care Commons.md",
+    "Graph Maps/Bridge Map - Circular Futures.md",
     "Graph Maps/Architectures of Care and Ritual 1.md",
-    "entries/Habitat 67.md",
-    "Concept Notes - SAI/Mutual Aid.md",
-    "Concept Notes - SAI/Bioregional Integration.md",
-    "Concept Notes - SAI/Biophilic Design.md",
-    "Concept Notes - SAI/Biomimicry.md",
+    "Graph Maps/Architectures of Care and Ritual.md",
+    "Concept Notes - SAI/3D Printed Architecture.md",
+    "Concept Notes - SAI/Biodiversity Support.md",
+    "entries/Green Roofs on Chicago City Hall.md",
+    "entries/Dogon Cliff Dwellings.md",
+    "Concept Notes - SAI/Ancestral Embodiment.md",
     "Concept Notes - SAI",
     "Concept Notes",
     "Stubs/Untitled.canvas",
@@ -311,7 +269,6 @@
     "Spatial Typologies",
     "Excalidraw",
     "Untitled.canvas",
-    "templates",
-    "entries"
+    "templates"
   ]
 }
